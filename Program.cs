@@ -78,6 +78,16 @@ static void comparison()
 static void logical(){
    int a=100;
    Console.WriteLine(a>60 && a<200);
+   Console.WriteLine(a>60 || a<200);
+   Console.WriteLine (!(a>60 && a<200));
 }
+static void Ifelse(){
+    int a=10;
+    int b=20;
+    if(a>b)
+    {
+        Console.WriteLine(a+"is greater than"+b);
+    }
+
     }
 }
