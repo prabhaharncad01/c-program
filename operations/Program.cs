@@ -2,7 +2,7 @@
 using System;
 
 
-<<<<<<< HEAD
+
     class Program  
     {
 //         static void Main(string[] args) 
@@ -278,4 +278,4 @@ class switchstatement
    }  
 }
 }
->>>>>>> c2134dfb0d26eb16c831f144e7515105fbaf7be3
+
