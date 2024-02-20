@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\c-program\\c-program.csproj": {}
+    "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\switchpro\\switchpro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\c-program\\c-program.csproj": {
+    "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\switchpro\\switchpro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\c-program\\c-program.csproj",
-        "projectName": "c-program",
-        "projectPath": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\c-program\\c-program.csproj",
+        "projectUniqueName": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\switchpro\\switchpro.csproj",
+        "projectName": "switchpro",
+        "projectPath": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\switchpro\\switchpro.csproj",
         "packagesPath": "C:\\Users\\prabhaharncad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\c-program\\obj\\",
+        "outputPath": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c#\\switchpro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabhaharncad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

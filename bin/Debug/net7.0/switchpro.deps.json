@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "c-program/1.0.0": {
+      "switchpro/1.0.0": {
         "runtime": {
-          "c-program.dll": {}
+          "switchpro.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "c-program/1.0.0": {
+    "switchpro/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
