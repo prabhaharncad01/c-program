@@ -1,0 +1,14 @@
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.AssemblyInfoInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.AssemblyInfo.cs
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.csproj.CoreCompileInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\bin\Debug\net7.0\switchpro.exe
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\bin\Debug\net7.0\switchpro.deps.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\bin\Debug\net7.0\switchpro.runtimeconfig.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\bin\Debug\net7.0\switchpro.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\bin\Debug\net7.0\switchpro.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\refint\switchpro.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\switchpro.genruntimeconfig.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\switchpro\obj\Debug\net7.0\ref\switchpro.dll
