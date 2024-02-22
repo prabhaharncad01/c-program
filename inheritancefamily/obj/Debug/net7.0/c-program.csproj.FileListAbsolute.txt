@@ -1,0 +1,14 @@
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.AssemblyInfoInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.AssemblyInfo.cs
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.csproj.CoreCompileInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\bin\Debug\net7.0\c-program.exe
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\bin\Debug\net7.0\c-program.deps.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\bin\Debug\net7.0\c-program.runtimeconfig.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\bin\Debug\net7.0\c-program.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\bin\Debug\net7.0\c-program.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\refint\c-program.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\c-program.genruntimeconfig.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\inheritancefamily\obj\Debug\net7.0\ref\c-program.dll
