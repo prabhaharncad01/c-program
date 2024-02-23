@@ -1,0 +1,14 @@
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.AssemblyInfoInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.AssemblyInfo.cs
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.csproj.CoreCompileInputs.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\bin\Debug\net7.0\brightinheritance.exe
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\bin\Debug\net7.0\brightinheritance.deps.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\bin\Debug\net7.0\brightinheritance.runtimeconfig.json
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\bin\Debug\net7.0\brightinheritance.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\bin\Debug\net7.0\brightinheritance.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\refint\brightinheritance.dll
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.pdb
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\brightinheritance.genruntimeconfig.cache
+C:\Users\prabhaharncad01\Desktop\CADBATCH\c#\c-program\brightinheritance\obj\Debug\net7.0\ref\brightinheritance.dll
